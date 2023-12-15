@@ -19,5 +19,3 @@
 4. Verification - Do you want to keep your server protected from raiders? RILP BOT has got your back with its advanced verification system offering verification in both ways Image Verification by sending a captcha to new members or Web Verification.
 
 5. Starboard - Your community members' memes are amazing? And want to keep them in a separate channel for everyone? RILP BOT's starboard is the perfect thing for that, it helps the community to grow by sending the messages that reach the star limit in a separate channel for all of the servers and preserving it as a memory.
-
-<iframe src="https://rilpbot.xyz" title="RILP BOT"></iframe>
