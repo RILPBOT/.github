@@ -1,4 +1,4 @@
-[RILPBOT IMG](https://images-ext-2.discordapp.net/external/Vn-wBU_Aqp5RZ0xGiHv4bVmbXvSGD3bop1y6WPqH5ss/https/i.imgur.com/BwwrU8X.png?format=webp&quality=lossless&width=1282&height=481)
+![RILPBOT IMG](https://i.imgur.com/BwwrU8X.png)
 ### About **RILP BOT**
 
 **RILP BOT** is designed with the aim to maximize features with a simple and easy-to-use interface. **RILP BOT** provides moderation, logging, advance giveaways, an invite manager, and a nice custom welcome message for your new members.
